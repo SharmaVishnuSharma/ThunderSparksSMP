@@ -1,0 +1,22 @@
+- changing backgrounds + info boxes
+- responsive
+- make testimonial style like template (and make footer like that too)
+- message tree for twitter in footer
+- check all hyperlinks to be working (manually, not in code)
+- svg fallbacks (preferably without JS but also without double resource loading)
+- mods logos in one png with css backgrounds
+- decide on a license for the website
+
+
+responsive: logo as scroll to top, nav button on right
+
+
+footer:
+- logo
+- open ticket
+- ToS
+- we <3 open source
+- twitter (templated, not scripted)
+
+- copyright notice and github link
+

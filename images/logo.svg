@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="160" height="160" xmlns="http://www.w3.org/2000/svg" version="1.1">
+	<title>Endernode logo</title>
+	<desc>Copyright (c) Endernode 2014. All rights reserved. For reference use only.</desc>
+
+	<g transform="translate(5 5)">
+		<path fill="none" d="m 150,75 a 75,75 0 1 1 -150,0 75,75 0 1 1 150,0 z" />
+		<path fill="#7266ba" d="M 75,150 m -35,-8.6 s 35,19.5 70,0 l 0,-108.4 s 0,-5 -5,-5 l -60,0 s -5,0 -5,5 z" />
+
+		<g transform="matrix(-0.75,0.65,0.65,0.75,133,-71)">
+			<rect x="180" y="50" width="14.5" height="2" fill="#2d245b" />
+			<rect x="180" y="52" width="14" height="39" fill="#7266ba" stroke="#2d245b" stroke-width="1" stroke-dasharray="0, 14, 39, 53" />
+		</g>
+
+		<g transform="matrix(0.75,0.65,-0.65,0.75,17,-71)">
+			<rect x="180" y="50" width="14.5" height="2" fill="#2d245b" />
+			<rect x="180" y="52" width="14" height="39" fill="#7266ba" stroke="#2d245b" stroke-width="1" stroke-dasharray="0, 14, 39, 53" />
+		</g>
+
+		<rect x="50" y="38" width="15" height="12" rx="1.65" fill="#181523" />
+		<rect x="85" y="38" width="15" height="12" rx="1.65" fill="#181523" />
+		<path fill="#201e2b" d="m 50,61 0,15 c 0,3.8 3.1,6.9 6.9,6.8 l 36.2,0 c 3.8,0 6.9,-3.1 6.9,-6.9 l 0,-15 c 0,3.8 -3.1,6.9 -6.9,6.9 l -36.2,0 c -3.8,0 -6.9,-3.1 -6.9,-6.8 z" />
+
+		<path fill="none" stroke="#a7a7a7" stroke-width="2.5" d="m 150,75 a 75,75 0 1 1 -150,0 75,75 0 1 1 150,0 z" />
+	</g>
+</svg>
+
